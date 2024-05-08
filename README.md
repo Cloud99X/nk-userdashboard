@@ -2,5 +2,5 @@
 ## Installation
 npm install
 
-## Installation
+## Run
 npm start
